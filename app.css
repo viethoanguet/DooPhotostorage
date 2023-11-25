@@ -629,4 +629,24 @@ footer .content {
     .nav-menu.active {
         left: 0;
     }
+
+    .social-itemtxt {
+        font-size: 14px;
+        text-transform: uppercase;
+        text-align: center;
+        font-weight: 510;
+
+    }
+
+    .social-item~.social-item {
+        margin-left: 8px;
+    }
+
+    .social-item1~.social-item {
+        margin-left: 8px;
+    }
+
+    .social-item1~.social-item1 {
+        margin-left: 8px;
+    }
 }
